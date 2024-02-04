@@ -1,6 +1,6 @@
 # emailrep
 
-Node.js wrapper for the EmailRep API
+Node.js library for the EmailRep API
 
 ## Installation
 

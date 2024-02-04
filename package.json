@@ -1,7 +1,7 @@
 {
   "name": "emailrep",
   "version": "1.0.1",
-  "description": "Node.js wrapper for the EmailRep API",
+  "description": "Node.js library for the EmailRep API",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
