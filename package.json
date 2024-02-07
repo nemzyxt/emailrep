@@ -1,6 +1,6 @@
 {
   "name": "emailrep",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Node.js library for the EmailRep API",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,8 @@
   },
   "keywords": [
     "Email",
-    "Reputation"
+    "Reputation",
+    "EmailRep"
   ],
   "author": "Nemuel Wainaina",
   "license": "ISC"

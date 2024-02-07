@@ -5,7 +5,7 @@ Node.js library for the EmailRep API
 ## Installation
 
 ```bash
-npm install emailrep
+npm i emailrep
 ```
 
 ## Usage
