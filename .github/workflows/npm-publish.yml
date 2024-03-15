@@ -5,8 +5,8 @@ name: Node.js Package
 
 on:
   push:
-      branches:
-        - main
+    branches:
+      - main
   pull_request:
     branches:
       - main
@@ -36,4 +36,4 @@ jobs:
       - run: npm ci
       - run: npm publish
         env:
-          NODE_AUTH_TOKEN: ${{secrets.npm_token}}
+          NODE_AUTH_TOKEN: ${{secrets.NPM_TOKEN}}
