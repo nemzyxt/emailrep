@@ -1,0 +1,19 @@
+{
+  "name": "emailrep",
+  "version": "1.0.0",
+  "description": "Node.js wrapper for the EmailRep API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/nemzyxt/emailrep"
+  },
+  "keywords": [
+    "Email",
+    "Reputation"
+  ],
+  "author": "Nemuel Wainaina",
+  "license": "ISC"
+}
